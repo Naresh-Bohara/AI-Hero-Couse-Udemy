@@ -1,31 +1,31 @@
-# 🤖 AI Hero: A 6-Month Journey  
-### From Zero to AI Expert
+# 🤖 AI Hero: A 12-Month Journey  
+## Taking You from Zero to AI Expert
 
-AI Hero is an intensive **6-month structured learning program** designed to take learners from **absolute beginner** to **advanced AI practitioner**.  
-No prior experience in programming, mathematics, or artificial intelligence is required.
+**AI Hero** is a comprehensive **12-month structured learning program** designed to take learners from **absolute beginner** to **industry-ready AI & Data Science professional**.
 
-This curriculum focuses on **hands-on learning**, **real-world projects**, and **industry-relevant skills**, enabling learners to build, deploy, and present complete AI solutions within six months.
+No prior experience in programming, mathematics, or artificial intelligence is required.  
+This curriculum emphasizes **strong foundations**, **hands-on projects**, and **real-world deployment**, ensuring learners can confidently build, train, and deploy advanced AI systems.
 
 ---
 
 ## 🎯 Program Overview
 
-- Duration: **6 Months**
-- Level: **Beginner to Advanced**
-- Learning Style: Theory + Implementation + Projects
-- Outcome: Job-ready AI & Data Science skills
+- **Duration:** 12 Months  
+- **Level:** Beginner → Advanced  
+- **Learning Style:** Theory + Implementation + Projects  
+- **Outcome:** Job-ready AI, ML & Data Science skills  
 
 ---
 
-## 🗓 Curriculum Structure
+## 🗓 Curriculum Structure (12 Months)
 
 ---
 
-## 🟦 Month 1–2: Foundations of Python, Math & Data
+## 🟦 Quarter 1 (Months 1–3): Foundations of Python, Math & Data
 
 ### 1️⃣ Python Fundamentals
 - Python syntax and core concepts  
-- Data types and variables  
+- Variables and data types  
 - Control flow (if-else, loops)  
 - Functions and modular programming  
 - File handling  
@@ -33,14 +33,15 @@ This curriculum focuses on **hands-on learning**, **real-world projects**, and *
 - Practical mini-projects  
 
 ### 2️⃣ Mathematical Building Blocks
-- Linear Algebra  
+- **Linear Algebra**
   - Vectors, matrices, matrix operations  
-- Probability  
+- **Probability**
   - Random variables and distributions  
-- Statistics  
+- **Statistics**
   - Mean, variance, correlation  
-- Calculus  
-  - Limits, derivatives, gradients (conceptual + code-based)  
+- **Calculus**
+  - Limits, derivatives, gradients  
+  - Conceptual understanding with code implementations  
 
 ### 3️⃣ Data Handling & Visualization
 - NumPy fundamentals  
@@ -48,12 +49,12 @@ This curriculum focuses on **hands-on learning**, **real-world projects**, and *
 - Data cleaning and preprocessing  
 - Data visualization using matplotlib  
 
-### ✅ Capstone (Month 2)
+### ✅ Quarter 1 Capstone
 **Exploratory Data Analysis (EDA)** using real-world datasets
 
 ---
 
-## 🟩 Month 3–4: Machine Learning Foundations
+## 🟩 Quarter 2 (Months 4–6): Machine Learning Foundations
 
 ### 4️⃣ Core Machine Learning Algorithms
 - Regression techniques  
@@ -64,32 +65,32 @@ This curriculum focuses on **hands-on learning**, **real-world projects**, and *
 
 ### 5️⃣ Evaluation & Optimization
 - Train-test split  
-- Cross-validation techniques  
-- Overfitting and underfitting  
+- Cross-validation  
+- Overfitting & underfitting  
 - Feature selection  
 - Hyperparameter tuning  
 
 ### 6️⃣ End-to-End ML Pipelines
 - Data preprocessing workflows  
-- Model training and validation  
+- Model training & validation  
 - Model deployment fundamentals  
 - Model monitoring basics  
 
 ### 📅 Weekly Learning Structure
-- **Monday–Tuesday:** Concept introduction and theory  
+- **Monday–Tuesday:** Theory & concept introduction  
 - **Wednesday–Thursday:** Guided implementation  
 - **Friday–Sunday:** Mini-projects on real datasets  
 
-### ✅ Capstone (Month 4)
+### ✅ Quarter 2 Capstone
 Develop a **complete machine learning pipeline** solving a real business problem
 
 ---
 
-## 🟨 Month 5: Deep Learning & Generative AI
+## 🟨 Quarter 3 (Months 7–9): Deep Learning & Generative AI
 
 ### 7️⃣ Neural Networks
-- Artificial neural networks  
-- Forward propagation and backpropagation  
+- Artificial Neural Networks (ANNs)  
+- Forward & backpropagation  
 - Loss functions  
 - Gradient descent  
 
@@ -113,12 +114,12 @@ Develop a **complete machine learning pipeline** solving a real business problem
 - Diffusion model fundamentals  
 - Text-to-image generation basics  
 
-### ✅ Capstone (Month 5)
-Build a **generative AI application** showcasing creative outputs
+### ✅ Quarter 3 Capstone
+Build a **Generative AI application** showcasing creative outputs
 
 ---
 
-## 🟥 Month 6: Advanced AI, Agents & Deployment
+## 🟥 Quarter 4 (Months 10–12): Advanced AI, Agents & Deployment
 
 ### 🔤 NLP & Large Language Models
 - Text preprocessing  
@@ -137,31 +138,37 @@ Build a **generative AI application** showcasing creative outputs
 ### 🚀 MLOps & Deployment
 - Model packaging  
 - Containerization (Docker)  
-- CI/CD pipelines for machine learning  
-- Model monitoring and scalability  
-- AI ethics and responsible deployment  
+- CI/CD pipelines for ML  
+- Model monitoring & scalability  
+- AI ethics & responsible deployment  
 
 ---
 
-## 🏆 Final Capstone Project
+## 🏆 Final Capstone Project (Month 12)
 
-Train, deploy, and present a **complete AI solution** that solves a **real-world problem**, including:
+Train, deploy, and present a **complete AI solution** that solves a **significant real-world problem**, including:
+
 - End-to-end model development  
-- Deployment and monitoring  
-- Documentation and presentation  
+- Production deployment  
+- Monitoring & scalability  
+- Documentation & presentation  
 
 ---
 
 ## 🎓 Program Outcome
 
-By the end of this **6-month AI Hero journey**, learners will:
+By the end of the **12-month AI Hero journey**, learners will be able to:
+
 - Build and deploy real-world AI systems  
-- Understand machine learning, deep learning, and generative AI  
-- Create intelligent agents and chatbots  
-- Apply ethical and scalable AI practices  
-- Be prepared for AI Engineer / ML Engineer roles  
+- Apply machine learning & deep learning confidently  
+- Create generative AI applications  
+- Develop intelligent agents and chatbots  
+- Implement MLOps best practices  
+- Apply ethical and responsible AI principles  
+- Prepare for **AI Engineer / ML Engineer / Data Scientist** roles  
 
 ---
 
 ## 📌 License
-This curriculum is intended for educational and learning purposes.
+
+This curriculum is intended for **educational and learning purposes only**.
